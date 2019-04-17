@@ -1,0 +1,16 @@
+---
+title: 블로그를 시작하다
+author: 배여운
+date: '2019-04-17'
+slug: ''
+categories:
+  - rddj
+tags: []
+---
+
+`blogdown`을 결국 이렇게 써먹을 줄이야. 
+
+```{r}
+plot(iris)
+```
+

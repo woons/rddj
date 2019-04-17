@@ -3,21 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://woons.github.io/rddj/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://woons.github.io/rddj/categories/</loc>
+    <loc>/rddj/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://woons.github.io/rddj/</loc>
+    <loc>/rddj/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://woons.github.io/rddj/tags/</loc>
+    <loc>/rddj/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/rddj/categories/rddj/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/rddj/post/2019-04-17-/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rddj/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/rddj/tags/</loc>
     <priority>0</priority>
   </url>
   
