@@ -13,7 +13,7 @@ publishDir = "docs"
 [params]
 	author = "배여운"
 	description = "R을 활용한 데이터저널리즘"
-	bio = "author biography"
+	bio = "배여운"
 
 	twitter = "yeowoon210"
 	facebook = "delete210"
