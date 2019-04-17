@@ -2,39 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on R을 활용한 데이터저널리즘</title>
-    <link>/rddj/categories/</link>
+    <link>https://woons.github.io/rddj/categories/</link>
     <description>Recent content in Categories on R을 활용한 데이터저널리즘</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/rddj/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://woons.github.io/rddj/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/rddj/categories/r/</link>
+      <link>https://woons.github.io/rddj/categories/r/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/rddj/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>/rddj/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/rddj/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>/rddj/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/rddj/categories/golang/</guid>
+      <guid>https://woons.github.io/rddj/categories/r/</guid>
       <description></description>
     </item>
     

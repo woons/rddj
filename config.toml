@@ -57,7 +57,7 @@ publishDir = "docs"
 	copyright = ""
 
 	# show latest posts in single page
-	showLatestPosts = false
+	showLatestPosts = true
 	readMore = ""
 
 	# Share
